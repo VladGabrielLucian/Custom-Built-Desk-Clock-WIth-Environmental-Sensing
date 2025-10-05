@@ -1,7 +1,7 @@
 # Custom-Built-Desk-Clock-WIth-Environmental-Sensing
 Here you can find all the information regarding my personal Desk Clock device prototype.
 
------==G E N E R A L        I N F O R M A T I O N==----
+-----==GENERAL INFORMATION==----
 
   This is a project that aimed to improve my skills with Arduino and with autonomous devices.
   All the files regarding this project are open-source and everything needed to recreate the prototype
